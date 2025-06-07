@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 
 # Replace with your bot token
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "5696074673:AAFSjLPwlYT6usWNs4e5XGFqe94PSq9PK98"
 
 app = Client("hello_bot", bot_token=BOT_TOKEN)
 
